@@ -68,7 +68,7 @@
       <p><strong>Age: </strong>{"I am currently " + calculateAge(birthday) + " years old."}</p>
     </div>
     <div class="timezone">
-      <p><strong>Date & Time: </strong>In my timezone (Europe/London), it is currently <strong>{getCurrentDateTime(timezone)}</strong></p>
+      <p><strong>Date & Time: </strong>In my timezone <strong>({timezone})</strong>, it is currently <strong>{getCurrentDateTime(timezone)}</strong></p>
     </div>
     <div class="words">
       <div class="separator"></div>
