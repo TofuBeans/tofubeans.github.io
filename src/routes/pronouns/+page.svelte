@@ -135,7 +135,7 @@
             <span class="okay" title="okay">cute</span></p>
 
             <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
-            <span class="never" title="okay">handsome</span></p>
+            <span class="never" title="If you use this I will throw a dirty sock at you">handsome</span></p>
 
           </div>
         </div>
