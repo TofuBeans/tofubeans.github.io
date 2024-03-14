@@ -184,7 +184,7 @@ body {
   }
   
   /* Pale red text color styles */
-  .kys {
+  .never {
     vertical-align: top; /* Align icons vertically */
     color: var(--kys); /* Set text color to pale red */
   }

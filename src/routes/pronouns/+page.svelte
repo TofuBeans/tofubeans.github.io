@@ -41,14 +41,17 @@
     <a href={"/"} class="special-button" id="backhome">go back to home</a>
     <div class="separator"></div>
     <div class="profile-header">
+      <!-- svelte-ignore a11y-img-redundant-alt -->
       <img class="profile-picture" src="pfp.png" alt="Profile Picture"/>
       <h1>Daniella</h1>
     </div>
     <div class="flag" style="margin-bottom: 2em;">
+      <!-- svelte-ignore a11y-missing-attribute -->
       <img src="trans-flag.png"/>
       <span>Trans</span>
     </div>
     <div class="flag">
+      <!-- svelte-ignore a11y-missing-attribute -->
       <img src="lesbian-flag.png"/>
       <span>Lesbian</span>
     </div>
@@ -84,8 +87,8 @@
             <p><span class="material-icons okay" title="okay">thumb_up</span>
             <span class="okay" title="okay">Daniella</span></p>
 
-            <p><span class="material-icons kys" title="kys">do_not_disturb_on</span>
-            <span class="kys" title="kys">[DEADNAME]</span></p>
+            <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
+            <span class="never" title="If you use this I will throw a dirty sock at you">[DEADNAME]</span></p>
 
           </div>
           <div class="column">
@@ -98,8 +101,8 @@
             <p><span class="material-icons okay" title="okay">thumb_up</span>
             <span class="okay" title="okay">They/Them</span></p>
 
-            <p><span class="material-icons kys" title="kys">do_not_disturb_on</span>
-            <span class="kys" title="kys">He/Him</span></p>
+            <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
+            <span class="never" title="If you use this I will throw a dirty sock at you">He/Him</span></p>
 
           </div>
           <div class="column">
@@ -109,8 +112,8 @@
             <p><span class="material-icons good" title="preferred">favorite</span>
             <span class="good" title="preferred">Mrs</span></p>
 
-            <p><span class="material-icons kys" title="kys">do_not_disturb_on</span>
-            <span class="kys" title="kys">Mr</span></p>
+            <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
+            <span class="never" title="If you use this I will throw a dirty sock at you">Mr</span></p>
 
           </div>
         </div>
@@ -131,8 +134,8 @@
             <p><span class="material-icons okay" title="okay">thumb_up</span>
             <span class="okay" title="okay">cute</span></p>
 
-            <p><span class="material-icons kys" title="kys">do_not_disturb_on</span>
-            <span class="kys" title="okay">handsome</span></p>
+            <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
+            <span class="never" title="okay">handsome</span></p>
 
           </div>
         </div>
