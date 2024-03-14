@@ -79,10 +79,10 @@
             <h3 class="group-heading">Names</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
-            <span class="good" title="preferred">Junie</span></p>
+            <span class="good" title="preferred">Dani</span></p>
 
             <p><span class="material-icons okay" title="okay">thumb_up</span>
-            <span class="okay" title="okay">Juniper</span></p>
+            <span class="okay" title="okay">Daniella</span></p>
 
             <p><span class="material-icons kys" title="kys">do_not_disturb_on</span>
             <span class="kys" title="kys">[DEADNAME]</span></p>
