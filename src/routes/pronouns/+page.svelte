@@ -43,7 +43,7 @@
     <div class="profile-header">
       <!-- svelte-ignore a11y-img-redundant-alt -->
       <img class="profile-picture" src="pfp.png" alt="Profile Picture"/>
-      <h1>Ruby</h1>
+      <h1 class="white-text">Ruby</h1>
     </div>
     <div class="flag" style="margin-bottom: 2em;">
       <!-- svelte-ignore a11y-missing-attribute -->
@@ -58,7 +58,7 @@
     <div class="bio">
       <p>
         <br/>
-        <strong>TL;DR;</strong>
+        <strong class="white-text">TL;DR;</strong>
         <br/>
         - fem & romantic terms are very good
         <br/>
@@ -68,10 +68,10 @@
       </p>
     </div>
     <div class="age">
-      <p><strong>Age: </strong>{"I am currently " + calculateAge(birthday) + " years old."}</p>
+      <p><strong class="white-text">Age: </strong>{"I am currently " + calculateAge(birthday) + " years old."}</p>
     </div>
     <div class="timezone">
-      <p><strong>Date & Time: </strong>In my timezone <strong>({timezone})</strong>, it is currently <strong>{getCurrentDateTime(timezone)}</strong></p>
+      <p><strong class="white-text">Date & Time: </strong>In my timezone <strong>({timezone})</strong>, it is currently <strong>{getCurrentDateTime(timezone)}</strong></p>
     </div>
     <div class="words">
       <div class="separator"></div>
@@ -79,7 +79,7 @@
         <div class="columns">
           <div class="column">
 
-            <h3 class="group-heading">Names</h3>
+            <h3 class="group-heading white-text">Names</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
             <span class="good" title="preferred">Ruby</span></p>
@@ -93,7 +93,7 @@
           </div>
           <div class="column">
 
-            <h3 class="group-heading">Pronouns</h3>
+            <h3 class="group-heading white-text">Pronouns</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
             <span class="good" title="preferred">She/Her</span></p>
@@ -107,7 +107,7 @@
           </div>
           <div class="column">
 
-            <h3 class="group-heading">Titles</h3>
+            <h3 class="group-heading white-text">Titles</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
             <span class="good" title="preferred">Mrs</span></p>
@@ -123,7 +123,7 @@
         <div class="columns">
           <div class="column">
 
-            <h3 class="group-heading">Compliments</h3>
+            <h3 class="group-heading white-text">Compliments</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
             <span class="good" title="preferred">pretty</span></p>
