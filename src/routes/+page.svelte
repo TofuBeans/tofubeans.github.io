@@ -1,5 +1,5 @@
 <div class="container">
-    <h1>Hey, i'm Ruby! 🏳️‍⚧️</h1>
+    <h1 class="white-text">Hey, i'm Ruby! 🏳️‍⚧️</h1>
     <div class="separator"></div>
     <p>If you're here, you probably know me from discord, but if you don't, let me introduce myself!</p>
     <div class="separator"></div>

@@ -1,16 +1,20 @@
 body {
-    --accent: #2b8ab0;
+    --accent: #b02b46;
     --good: #00ADB5;
     --okay: #fff;
     --dont: #808080;
     --kys: #FF6B6B;
     --joke: #eebc33;
-    background-color: #1a1a1a;
-    color: #fff;
+    background-color: #350f0f;
+    color: #fdb0b0;
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     margin: 3em;
     padding: 0;
+  }
+
+  .white-text {
+    color: #fff;
   }
   
   .container {
@@ -254,6 +258,6 @@ body {
   .separator {
     height: 1px;
     width: 100%;
-    border-bottom: 1px solid #555; /* Add border at the bottom */
+    border-bottom: 1px solid var(--accent); /* Add border at the bottom */
     margin: 35px 0px 35px 0px;
   }
