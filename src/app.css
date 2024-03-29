@@ -1,12 +1,12 @@
 body {
-    --accent: #b02b46;
+    --accent: #2b3ab0;
     --good: #00ADB5;
     --okay: #fff;
     --dont: #808080;
     --kys: #FF6B6B;
     --joke: #eebc33;
-    background-color: #350f0f;
-    color: #fdb0b0;
+    background-color: #1c1c32;
+    color: #b0c8fd;
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     margin: 3em;
@@ -14,7 +14,7 @@ body {
   }
 
   .white-text {
-    color: #fff;
+    color: #b5ceef;
   }
   
   .container {

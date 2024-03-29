@@ -1,5 +1,5 @@
 <div class="container">
-    <h1 class="white-text">Hey, i'm ___! 🏳️‍⚧️</h1>
+    <h1 class="white-text">Hey, i'm ___! (i have no name) 🏳️‍⚧️</h1>
     <div class="separator"></div>
     <p>If you're here, you probably know me from discord, but if you don't, let me introduce myself!</p>
     <div class="separator"></div>
@@ -11,4 +11,4 @@
     <div class="separator"></div>
     <p>I also made the website for <strong>Pixel's Life Series</strong>, which you can visit below:</p>
     <a href="https://tofubeans.github.io/Pixels-Life-Series/" class="special-button">Pixel's Life Series</a>
-  </div>
+</div>
