@@ -1,9 +1,9 @@
 <div class="container">
-    <h1 class="white-text">Hey, i'm Ruby! 🏳️‍⚧️</h1>
+    <h1 class="white-text">Hey, i'm ___! 🏳️‍⚧️</h1>
     <div class="separator"></div>
     <p>If you're here, you probably know me from discord, but if you don't, let me introduce myself!</p>
     <div class="separator"></div>
-    <p>My name is Ruby (for now >:3) and i'm a 13 year old trans girl from the UK (yes I do in fact hate it here)<br/>
+    <p>My name is ___ (names are fucking hard) and i'm a 13 year old trans girl from the UK (yes I do in fact hate it here)<br/>
     I enjoy web development, programming in general, art, graphic design and video editing!</p>
     <div class="separator"></div>
     <p>If you would like to see more information on what I prefer to be called, click down here!</p>

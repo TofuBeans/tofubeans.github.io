@@ -43,7 +43,7 @@
     <div class="profile-header">
       <!-- svelte-ignore a11y-img-redundant-alt -->
       <img class="profile-picture" src="pfp.png" alt="Profile Picture"/>
-      <h1 class="white-text">Ruby</h1>
+      <h1 class="white-text">Tofu</h1>
     </div>
     <div class="flag" style="margin-bottom: 2em;">
       <!-- svelte-ignore a11y-missing-attribute -->
@@ -82,10 +82,10 @@
             <h3 class="group-heading white-text">Names</h3>
 
             <p><span class="material-icons good" title="preferred">favorite</span>
-            <span class="good" title="preferred">Ruby</span></p>
+            <span class="good" title="preferred">errrrr</span></p>
 
             <p><span class="material-icons okay" title="okay">thumb_up</span>
-            <span class="okay" title="okay">Tofu</span></p>
+            <span class="okay" title="okay">ummmmm</span></p>
 
             <p><span class="material-icons never" title="If you use this I will throw a dirty sock at you">do_not_disturb_on</span>
             <span class="never" title="If you use this I will throw a dirty sock at you">[DEADNAME]</span></p>
